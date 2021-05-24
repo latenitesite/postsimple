@@ -1,0 +1,8 @@
+.skip-link:focus {
+    clip: unset;
+    width: auto;
+    padding: get-size('100') get-size('200');
+    text-decoration: none;
+    top: get-size('200');
+    left: get-size('200');
+}

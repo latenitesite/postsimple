@@ -1,0 +1,10 @@
+*.DS_Store
+node_modules
+assets
+vendor
+style.css
+
+# Kroket files
+_kroket.scss
+tokens.json
+src/scss/_config.scss
